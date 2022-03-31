@@ -218,7 +218,3 @@ $(document).ready(function(){
     countCostAPI('#check-pos', 'http://localhost:8080/api/costpos')
 
 });
-
-
-
-
